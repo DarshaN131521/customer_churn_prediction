@@ -15,6 +15,10 @@ The project includes data preprocessing, exploratory data analysis (EDA), model 
 - View model performance metrics.
 - Clean and user-friendly dashboard.
 
+  
+## 🚀 Live Demo
+
+**Streamlit App:** https://telecom-customer-churn-darshan.streamlit.app
 ---
 
 ## 📂 Dataset
