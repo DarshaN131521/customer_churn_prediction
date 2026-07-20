@@ -183,4 +183,5 @@ Through this project I gained practical experience in:
 
 **Darshan Panchal**
 
+Aspiring Data Analyst | Data Science Enthusiast
 
